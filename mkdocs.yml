@@ -5,3 +5,10 @@ nav:
 
 theme:
   name: material
+site_name: NinjaGuar Documentation
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
